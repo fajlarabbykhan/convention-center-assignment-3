@@ -8,3 +8,15 @@ body{
    font-size: 16px;
    color: #3E3E3E;
 }
+
+ /* css for carousel */
+ .carousel_button_text{
+    font-size: 16px;
+    color: #3F87F5;
+ }
+ .carousel_h1_text{
+     font-size: 38px;
+ }
+ .carousel_p_text{
+     font-size: 16px;
+ }
