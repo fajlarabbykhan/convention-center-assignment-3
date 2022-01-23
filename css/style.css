@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* css for Navber */
+.nav_font{
+   font-size: 16px;
+   color: #3E3E3E;
+}
