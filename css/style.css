@@ -29,4 +29,58 @@ body{
     font-size:16px ;
     color: #7E848C;
 }
- 
+
+/* footer css */
+.footer_copy{
+    font-size:14px ;
+    color: #D9DBE1;
+}
+.footer_app{
+    font-size:18px ;
+    color: #D9DBE1;
+}
+/* packgars css */
+.packge_h2{
+    font-size: 28px;
+    color: #231D4F;
+    }
+.packge_h3{
+        font-size: 15px;
+        color: #231D4F;
+        }
+.packge_p{
+font-size: 15px;
+color: #848199;
+}
+.packge_h21{
+    font-size: 28px;
+    color: #FFFFFF;
+    }
+.packge_h31{
+        font-size: 15px;
+        color: #FFFFFF;
+        }
+.packge_p1{
+font-size: 15px;
+color: #FFFFFF;
+}
+.packge_back{
+    background-image: linear-gradient(#3F87F5,#1568e6);
+}
+
+/* bonous css */
+.bonous_p{
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+.bonous_h2{
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+.bonous_back{
+    background-image: linear-gradient(#2ccd8a,#186ae7);
+}
+
+
