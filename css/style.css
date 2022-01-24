@@ -20,3 +20,13 @@ body{
  .carousel_p_text{
      font-size: 16px;
  }
+ /* css for asked question */
+ .according_text{
+        font-size: 20px;
+        color: #383838;
+    }
+.according_inside_text{
+    font-size:16px ;
+    color: #7E848C;
+}
+ 
